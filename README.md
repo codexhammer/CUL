@@ -5,7 +5,7 @@
 
 This is the official implementation of "Unsupervised Learning for Identifying HighEigenvector Centrality Nodes: A Graph Neural Network Approach", IEEE BigData, 2021 (yet to be published).
 
-Cite:
+Cite the arxiv version:
 
     @misc{rakaraddi2021unsupervised,
       title={Unsupervised Learning for Identifying High Eigenvector Centrality Nodes: A Graph Neural Network Approach}, 
