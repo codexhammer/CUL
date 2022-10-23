@@ -3,7 +3,7 @@
 3. Change the dataset from "data" folder.
 
 
-This is the official implementation of "Unsupervised Learning for Identifying HighEigenvector Centrality Nodes: A Graph Neural Network Approach", IEEE BigData, 2021 (yet to be published).
+This is the official implementation of "Unsupervised Learning for Identifying HighEigenvector Centrality Nodes: A Graph Neural Network Approach", IEEE BigData, 2021.
 
 Cite the arxiv version:
 
