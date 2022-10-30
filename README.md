@@ -1,17 +1,20 @@
-1. First train the network with Eigen-train-geo-real.ipynb. Change the number of epochs if necessary.
+1. Train the network with Eigen-train-geo-real.ipynb.
 2. Test the trained model with Eigen-test.ipynb
 3. Change the dataset from "data" folder.
 
 
-This is the official implementation of "Unsupervised Learning for Identifying HighEigenvector Centrality Nodes: A Graph Neural Network Approach", IEEE BigData, 2021.
+This is the official implementation of "Unsupervised Learning for Identifying High Eigenvector Centrality Nodes: A Graph Neural Network Approach", IEEE BigData, 2021.
 
-Cite the arxiv version:
+Cite our work:
 
-    @misc{rakaraddi2021unsupervised,
-      title={Unsupervised Learning for Identifying High Eigenvector Centrality Nodes: A Graph Neural Network Approach}, 
-      author={Appan Rakaraddi and Mahardhika Pratama},
-      year={2021},
-      eprint={2111.05264},
-      archivePrefix={arXiv},
-      primaryClass={cs.SI}
-    }
+```yaml
+@INPROCEEDINGS{9671902,  
+author={Rakaraddi, Appan and Pratama, Mahardhika},  
+booktitle={2021 IEEE International Conference on Big Data (Big Data)},   
+title={Unsupervised Learning for Identifying High Eigenvector Centrality Nodes: A Graph Neural Network Approach},   
+year={2021},  
+volume={},  
+number={},  
+pages={4945-4954},  
+doi={10.1109/BigData52589.2021.9671902}}
+```
